@@ -1,0 +1,5 @@
+local player = game.Players.LocalPlayer
+
+if player.Name == player.Name then
+  player:Kick("Are you skunked?")
+end
